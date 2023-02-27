@@ -6,7 +6,9 @@
 
 ## Datasets
 [2020 Play By Play](./data/play-by-play-2020.csv)
+
 [2021 Play By Play](./data/play-by-play-2021.csv)
+
 [2022 Play By Play](./data/play-by-play-2022.csv)
 
 ## Data Dictionary
