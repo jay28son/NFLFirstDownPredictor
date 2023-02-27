@@ -38,8 +38,7 @@
 ![plot](./images/edavisuals/Matrix.png)
 
 ## Conclusions/ Future Steps
-*
-*
-*
+* Our Xgboost model achieved an accuracy of 70%, which is 18% better than our baseline accuracy.
+* Our model had difficulty classifying the pass and run play most likely due to the randomness of the NFL/ how past plays affect the next play/etc. However it also had difficulty classifying qb spikes, because those are dependent on time outs a team has and if the clock is still running, which are features we do not have in our dataset.
 * Create a model where imbalanced data replacement techniques were implemented
 
