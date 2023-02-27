@@ -29,6 +29,12 @@
 
 
 ## Findings
+![plot](./images/edavisuals/Plays.png)
+![plot](./images/edavisuals/ImbalancedDataYards.png)
 
+![plot](./images/edavisuals/HomeAway.png)
+![plot](./images/edavisuals/ScoreHomeAway.png)
+
+![plot](./images/edavisuals/Matrix.png)
 
 ## Conclusions
