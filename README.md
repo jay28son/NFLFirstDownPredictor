@@ -37,4 +37,9 @@
 
 ![plot](./images/edavisuals/Matrix.png)
 
-## Conclusions
+## Conclusions/ Future Steps
+*
+*
+*
+* Create a model where imbalanced data replacement techniques were implemented
+
