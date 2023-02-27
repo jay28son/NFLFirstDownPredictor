@@ -5,6 +5,11 @@ A defensive coordinator gave our company a task of predicting what a play would 
 
 ## Problem Statement
 
+## Executive Summary
+* Transformed variables from categorical to numerical
+* Implemented princple component analysis to reduce dimensionality
+* Looked at model evaluation through confusion matrix and ROC techniques
+
 ## Datasets
 [2020 Play By Play](./data/play-by-play-2020.csv)
 
