@@ -15,11 +15,11 @@ Create a predictive model that can predict the play type of an NFL play. Create 
 * Looked at model evaluation through confusion matrix and ROC techniques
 
 ## Datasets
-[2020 Play By Play](./data/play-by-play-2020.csv)
+[2020 Play By Play](https://github.com/jay28son/NFLPlayPredictor/blob/main/data/play_by_play_2020.csv)
 
-[2021 Play By Play](./data/play-by-play-2021.csv)
+[2021 Play By Play](https://github.com/jay28son/NFLPlayPredictor/blob/main/data/play_by_play_2021.csv)
 
-[2022 Play By Play](./data/play-by-play-2022.csv)
+[2022 Play By Play](https://github.com/jay28son/NFLPlayPredictor/blob/main/data/play_by_play_2022.csv)
 
 ## Data Dictionary
 |Feature|Type|Dataset|Description|
