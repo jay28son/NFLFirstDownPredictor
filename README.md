@@ -44,6 +44,8 @@ Create a predictive model that can predict the play type of an NFL play. Create 
 ![plot](./images/edavisuals/HomeAway.png)
 ![plot](./images/edavisuals/ScoreHomeAway.png)
 
+## Evaluations
+
 ![plot](./images/edavisuals/Matrix.png)
 
 ## Conclusions/ Future Steps
