@@ -41,16 +41,23 @@ Create a predictive model that can predict the play type of an NFL play. Create 
 ![plot](./images/edavisuals/Plays.png)
 ![plot](./images/edavisuals/ImbalancedDataYards.png)
 
+The above plots showcase that the datasets provided were imbalanced, with this information we have two options; leave it imbalanced or balance the data. Both cases were performed.
+
 ![plot](./images/edavisuals/HomeAway.png)
 ![plot](./images/edavisuals/ScoreHomeAway.png)
+
+The above two plots showcase how the features have a correlation with the target variable.
 
 ## Evaluations
 
 ![plot](./images/edavisuals/Matrix.png)
+![plot](./images/edavisuals/MatrixBalanced.png)
+
+
 
 ## Conclusions/ Future Steps
-* Our Xgboost model achieved an accuracy of 70%, which is 18% better than our baseline accuracy.
+* Our Xgboost imbalanced model achieved the highest accuracy of 70%, which is 18% better than our baseline accuracy.
 * Our model had difficulty classifying the pass and run play most likely due to the randomness of the NFL/ how past plays affect the next play/etc. However it also had difficulty classifying qb spikes, because those are dependent on time outs a team has and if the clock is still running, which are features we do not have in our dataset.
-* Create a model where imbalanced data replacement techniques were implemented
-* Look for more data where more features are available, eg: Formation of offense, weather of the day.
+* Create a model with better imbalanced data replacement techniques.
+* Look for more data where more features are available, eg: Formation of offense, weather of the day, timeouts remaining.
 
