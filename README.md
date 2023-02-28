@@ -8,6 +8,7 @@ A defensive coordinator gave our company a task of predicting what a play would 
 ## Executive Summary
 * Transformed variables from categorical to numerical
 * Implemented princple component analysis to reduce dimensionality
+* Create a model for both an imbalanced and balanced dataset
 * Looked at model evaluation through confusion matrix and ROC techniques
 
 ## Datasets
