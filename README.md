@@ -1,4 +1,5 @@
 # NFLPlayPredictor
+* [Xgbmodel.ipynb](./NoteBooks/Xgbmodel.ipynb) is the main production model.
 
 ## Problem
 A defensive coordinator gave our company a task of predicting what a play would be given the conditions at a specific point of a game. His team provided us a dataset of plays in the NFL for the past three years.
