@@ -4,6 +4,8 @@
 A defensive coordinator gave our company a task of predicting what a play would be given the conditions at a specific point of a game. His team provided us a dataset of plays in the NFL for the past three years.
 
 ## Problem Statement
+Create a predictive model that can predict the play type of an NFL play. Create an application that can be given new data and give a prediction of the play.
+
 
 ## Executive Summary
 * Transformed variables from categorical to numerical
